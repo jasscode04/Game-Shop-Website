@@ -1,0 +1,10 @@
+.gameRating i {
+  color: gold;
+  margin-right: 2px;
+  font-size: 1rem;
+}
+
+.gameCard .gameRating span {
+  margin-left: 5px;
+  font-size: 1.3rem;
+  color: var(--second);}
